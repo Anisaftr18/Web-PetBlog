@@ -1,5 +1,5 @@
 # Web-PetBlog
-Submission Dicoding Belajar Membuat Front-End Web Untuk Pemula
+Submission Dicoding Belajar Dasar Pemrograman Web
 
 ![image](https://user-images.githubusercontent.com/83202465/194218943-876df82f-860c-4d6a-9500-0a8b406b1b3e.png)
 
